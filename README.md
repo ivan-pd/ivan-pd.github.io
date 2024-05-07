@@ -6,4 +6,7 @@ Hey, I'm Ivan Pineda Dominguez, and I am excited to join the CNM Deep Dive Java 
 
 ## Current Projects
 
+- Hello World: Java console applicaiton
+- Hello World: Android app
+
 ## Links
