@@ -10,3 +10,4 @@ Hey, I'm Ivan Pineda Dominguez, and I am excited to join the CNM Deep Dive Java 
 - Hello World: Android app
 
 ## Links
+* [LinkedIn](www.linkedin.com/in/ivanpinedadominguez)
