@@ -10,9 +10,4 @@ Hey, I'm Ivan Pineda Dominguez, and I am excited to join the CNM Deep Dive Java 
 - Hello World: Android app
 
 ## Links
-
-- [LinkedIn](www.linkedin.com/in/ivanpinedadominguez)
-
-> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
->
-> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
+* [LinkedIn](www.linkedin.com/in/ivanpinedadominguez)
